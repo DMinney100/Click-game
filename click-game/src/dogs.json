@@ -1,0 +1,62 @@
+[
+    {
+        "breed": "mountain dog",
+        "image": "https://images.dog.ceo/breeds/mountain-bernese/n02107683_2878.jpg"
+    },
+    {
+        "breed": "pug",
+        "image": "https://images.dog.ceo/breeds/pug/n02110958_9642.jpg"
+    },
+    {
+        "breed": "english spaniel",
+        "image": "https://images.dog.ceo/breeds/springer-english/n02102040_5096.jpg"
+    },
+    {
+        "breed": "australian cattle dog",
+        "image": "https://images.dog.ceo/breeds/cattledog-australian/IMG_3668.JPG"
+    },
+    {
+        "breed": "blood hound",
+        "image": "https://images.dog.ceo/breeds/hound-blood/n02088466_5212.jpg"
+    },
+    {
+        "breed": "bull mastiff",
+        "image": "https://images.dog.ceo/breeds/mastiff-bull/n02108422_5117.jpg"
+    },
+    {
+        "breed": "newfoundland",
+        "image": "https://images.dog.ceo/breeds/newfoundland/n02111277_2405.jpg"
+    },
+    {
+        "breed": "boxer",
+        "image": "https://images.dog.ceo/breeds/boxer/n02108089_4158.jpg"
+    },
+    {
+        "breed": "dachshund",
+        "image": "https://images.dog.ceo/breeds/dachshund/dachshund-123503_640.jpg"
+    },
+    {
+        "breed": "malamute",
+        "image": "https://images.dog.ceo/breeds/malamute/n02110063_8320.jpg"
+    },
+    {
+        "breed": "cocker spaniel",
+        "image": "https://images.dog.ceo/breeds/spaniel-cocker/n02102318_2997.jpg"
+    },
+    {
+        "breed": "french bulldog",
+        "image": "https://images.dog.ceo/breeds/bulldog-french/n02108915_4776.jpg"
+    },
+    {
+        "breed": "great dane",
+        "image": "https://images.dog.ceo/breeds/dane-great/n02109047_30923.jpg"
+    },
+    {
+        "breed": "german shepherd",
+        "image": "https://images.dog.ceo/breeds/germanshepherd/n02106662_2810.jpg"
+    },
+    {
+        "breed": "godlen retreiver",
+        "image": "https://images.dog.ceo/breeds/retriever-golden/n02099601_846.jpg"
+    }
+]

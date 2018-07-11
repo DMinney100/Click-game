@@ -1,0 +1,10 @@
+.nav-pills {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #000;
+    min-height: 65px;
+    width: 100%;
+    text-align: cetner;
+    
+}
